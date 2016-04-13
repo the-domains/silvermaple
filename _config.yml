@@ -1,0 +1,28 @@
+name: silvermaple
+favicon: null
+layout_spectrum: 0.8957421442028135
+typography_spectrum: 0.21305920276790857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6906811874359846
+  lightness: 0.9077326736878604
+  saturation: 0.5637611749116331
+  rhythmicContrast: 0.6842369879595935
+purpose: []
