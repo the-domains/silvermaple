@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Acer saccharinum, commonly known as silver maple, creek maple, silverleaf maple, soft maple, water maple, swamp maple, or white maple—is a species of maple native to eastern and central North America in the eastern United States and Canada. It is one of the most common trees in the United States.'
-datePublished: '2016-04-13T23:14:12.801Z'
-dateModified: '2016-04-13T23:14:05.641Z'
+datePublished: '2016-04-13T23:15:35.786Z'
+dateModified: '2016-04-13T23:14:19.987Z'
 title: Welcome to Silver Maple
 author: []
 sourcePath: _posts/2016-04-13-welcome-to-silver-maple.md
